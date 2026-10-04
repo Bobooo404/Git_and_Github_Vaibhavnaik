@@ -67,6 +67,11 @@ def form():
     return render_template("form.html")
 
 
+@app.route("/todo")
+def todo():
+    return render_template("todo.html")
+
+
 @app.route("/success")
 def success():
     return render_template("success.html")
