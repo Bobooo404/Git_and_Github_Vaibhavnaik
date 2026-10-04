@@ -1,14 +1,30 @@
 [
     {
-        "name": "Vaibhav",
-        "course": "Computer Engineering"
+        "id": 1,
+        "name": "Vaibhav Naik",
+        "email": "vaibhavnaik20@gmail.com",
+        "course": "Computer Engineering",
+        "semester": 5
     },
     {
-        "name": "Dattaraj",
-        "course": "Computer Engineering"
+        "id": 2,
+        "name": "Dattaraj Shinde",
+        "email": "dattaraj@example.com",
+        "course": "Computer Engineering",
+        "semester": 5
     },
     {
-        "name": "Pratik",
-        "course": "Computer Engineering"
+        "id": 3,
+        "name": "Pratik Patil",
+        "email": "pratik@example.com",
+        "course": "Computer Engineering",
+        "semester": 5
+    },
+    {
+        "id": 4,
+        "name": "Aadhya Kulkarni",
+        "email": "aadhya@example.com",
+        "course": "Computer Engineering",
+        "semester": 5
     }
 ]
